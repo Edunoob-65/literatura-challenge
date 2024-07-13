@@ -4,9 +4,10 @@ Este proyecto forma parte del programa Oracle Next Education y Alura Latam. El o
 Requisitos
 Para ejecutar este proyecto necesitas:
 
-Java 11 o superior
-Spring Framework
-Una base de datos configurada (en este caso PostgreSQL)
+*Java 11 o superior
+*Spring Framework
+*Una base de datos configurada (en este caso PostgreSQL)
+
 Funcionalidades
 El programa incluye las siguientes funcionalidades:
 
